@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3495503607",
+    "firebase_url": "https://facetest-b0450.firebaseio.com",
+    "project_id": "facetest-b0450",
+    "storage_bucket": "facetest-b0450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3495503607:android:1f411d5c0bbde96d3995f2",
+        "android_client_info": {
+          "package_name": "com.example.automationapp.homesecure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3495503607-1o9akg1cdq1obgcpe1d5lft6hg48p8ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automationapp.homesecure",
+            "certificate_hash": "574815c2b8284c76682eb2258e77d0dbf2a1fb08"
+          }
+        },
+        {
+          "client_id": "3495503607-9lgnd3vckb7lhkkk1pajojbpu8u03o54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSFKMgsdgDZSLTB2tXEUn9Sfhas9MjoGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3495503607-9lgnd3vckb7lhkkk1pajojbpu8u03o54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
